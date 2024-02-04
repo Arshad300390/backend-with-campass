@@ -1,0 +1,4 @@
+nodem# .gitignore
+
+# Node.js
+node_modules/
